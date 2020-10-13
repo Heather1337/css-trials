@@ -6,22 +6,18 @@ body {
 .box {
     height: 300px;
     width: 500px;
-}
-
-.stripes {
-    height: 33%;
-    width: 100%;
 
 }
 
-#top {
+.inner-box {
+    height: 100px;
+    width: 100px;
     background-color: black;
+    margin: 50px;
+    display: inline-block;
 }
 
-#middle {
-    background-color: red;
+#right-box {
+    margin-left: 0;
 }
 
-#bottom {
-    background-color: gold;
-}
