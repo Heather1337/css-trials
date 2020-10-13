@@ -4,7 +4,24 @@ body {
 
 
 .box {
-    background-color: #ff0000;
-    height: 240px;
-    width: 350px;
+    height: 300px;
+    width: 500px;
+}
+
+.stripes {
+    height: 33%;
+    width: 100%;
+
+}
+
+#top {
+    background-color: black;
+}
+
+#middle {
+    background-color: red;
+}
+
+#bottom {
+    background-color: gold;
 }
