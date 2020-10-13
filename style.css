@@ -6,10 +6,12 @@ body {
 .box {
     height: 200px;
     width: 350px;
+    display: inline-block;
 }
 
 #red-box {
     background-color: red;
+    /* float: left; */
 }
 
 #blue-box {
