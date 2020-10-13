@@ -4,20 +4,25 @@ body {
 
 
 .box {
-    height: 300px;
-    width: 500px;
+    height: 200px;
+    width: 350px;
+}
 
+#red-box {
+    background-color: red;
+}
+
+#blue-box {
+    background-color: blue;
 }
 
 .inner-box {
     height: 100px;
     width: 100px;
     background-color: black;
-    margin: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
     display: inline-block;
 }
 
-#right-box {
-    margin-left: 0;
-}
 
